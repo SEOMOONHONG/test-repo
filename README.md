@@ -1,1 +1,2 @@
 README_TEST
+안녕하세요!
